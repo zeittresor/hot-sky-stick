@@ -1,4 +1,4 @@
-Using this mod you can use your regular USB Joystick (hot swappend) while you play - just plug it into your system and start the mod.. :-)
+Using this mod you can use your regular USB Joystick (hot swapable) while you play - just plug it into your system and start the mod.. :-)
 
 - Start Skyrim SE (but no worry if it is the Skyrim (old) or a different game supporting WSAD controls - it should also work*).
 - After you have started your game switch back to desktop using alt+tab
