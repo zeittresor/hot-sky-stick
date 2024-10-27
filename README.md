@@ -31,8 +31,8 @@ that you can use the tool with almost every game wich is supporting WSAD input t
 History
 v1.0 (26-October-2024)
 - Basic Controls by emulating Keypress WSAD with 4 Trigger
-- First compiled Version of the mod
-- Include the python sourcecode of the mod for other modders (make sure to link back here if u do, please)
+- Python sourcecode of the mod for other modders
+- Binary file is available at the Modpage at Nexusmods
 
 This is a mod for Skyrim (SSE) created by triplex2011 (zeittresor) but it should work also with the old vanilla version as long with Fallout or some other games..
 
