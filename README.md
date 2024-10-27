@@ -35,3 +35,5 @@ v1.0 (26-October-2024)
 - Include the python sourcecode of the mod for other modders (make sure to link back here if u do, please)
 
 This is a mod for Skyrim (SSE) created by triplex2011 (zeittresor) but it should work also with the old vanilla version as long with Fallout or some other games..
+
+Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/132391
