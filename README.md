@@ -9,13 +9,13 @@ Using this mod you can use your regular USB Joystick (hot swappend) while you pl
 the process id but the name of the process you want to send the joystick input to.
 
 The Inputs are:
-Up -> Keyboard Key W
-Down -> Keyboard Key S
-Left -> Keyboard Key A
-Right -> Keyboard Key D
-Trigger #0 -> Emulate Left Mouse Button
-Trigger #1 -> Emulate Right Mouse Button
-Trigger #2 -> Keyboard Key Space
+Up -> Keyboard Key W / 
+Down -> Keyboard Key S / 
+Left -> Keyboard Key A / 
+Right -> Keyboard Key D / 
+Trigger #0 -> Emulate Left Mouse Button / 
+Trigger #1 -> Emulate Right Mouse Button / 
+Trigger #2 -> Keyboard Key Space / 
 Trigger #3 -> Keyboard Key I
 
 ![joystick1_small](https://github.com/user-attachments/assets/f1677da5-20cb-4aa2-a759-8801cbe0db4b)
@@ -36,5 +36,5 @@ v1.0 (26-October-2024)
 
 This is a mod for Skyrim (SSE) created by triplex2011 (zeittresor) but it should work also with the old vanilla version as long with Fallout or some other games..
 
-Github Page: https://github.com/zeittresor/hot-sky-stick
+Github Page: https://github.com/zeittresor/hot-sky-stick / 
 Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/132391
