@@ -18,7 +18,7 @@ Trigger #1 -> Emulate Right Mouse Button
 Trigger #2 -> Keyboard Key Space
 Trigger #3 -> Keyboard Key I
 
-![joystick1](https://github.com/user-attachments/assets/1127c943-a662-4482-b88f-6786e3cf825b)
+![joystick1_small](https://github.com/user-attachments/assets/f1677da5-20cb-4aa2-a759-8801cbe0db4b)
 
 How it works
 The Mod Utility is just seaching for a joystick connected to your System, if a joystick is detected the utility will send the input as keyboard keys
