@@ -10,21 +10,13 @@ the process id but the name of the process you want to send the joystick input t
 
 The Inputs are:
 Up -> Keyboard Key W
-
 Down -> Keyboard Key S
-
 Left -> Keyboard Key A
-
 Right -> Keyboard Key D
-
 Trigger #0 -> Emulate Left Mouse Button
-
 Trigger #1 -> Emulate Right Mouse Button
-
 Trigger #2 -> Keyboard Key Space
-
 Trigger #3 -> Keyboard Key I
-
 
 ![joystick1_small](https://github.com/user-attachments/assets/f1677da5-20cb-4aa2-a759-8801cbe0db4b)
 
