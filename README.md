@@ -36,4 +36,5 @@ v1.0 (26-October-2024)
 
 This is a mod for Skyrim (SSE) created by triplex2011 (zeittresor) but it should work also with the old vanilla version as long with Fallout or some other games..
 
+Github Page: https://github.com/zeittresor/hot-sky-stick
 Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/132391
