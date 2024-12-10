@@ -3,7 +3,7 @@ Using this mod you can use your regular USB Joystick (hot swapable) while you pl
 - Start Skyrim SE (but no worry if it is the Skyrim (old) or a different game supporting WSAD controls - it should also work*).
 - After you have started your game switch back to desktop using alt+tab
 - plug-in / swap your usb joystick into your pc, start the application of the mod (with administrator rights)
-  -> right mouseclick onto the executable of the mod "run as administrator"
+  -> right mouseclick onto the executable (or the script) of the mod "run as administrator"
 
 .. it should switch back to Skyrim SE .. *if not a list of all running processes will be showen, do not enter
 the process id but the name of the process you want to send the joystick input to.
